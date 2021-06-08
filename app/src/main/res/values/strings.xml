@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">BottomSheetExampl</string>
+
+    <array name="android_names">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>Pie</item>
+        <item>Android 10</item>
+        <item>Android 11</item>
+    </array>
+
+    <array name="german_cars">
+
+        <item>9ff</item>
+        <item>ABT Sportsline</item>
+        <item>Audi</item>
+        <item>Alpina</item>
+        <item>Artega</item>
+        <item>BMW</item>
+        <item>BMW M</item>
+        <item>Borgward</item>
+        <item>Citycom</item>
+        <item>CityEl</item>
+        <item>Ford-Werke</item>
+        <item>Gemballa</item>
+        <item>Isdera</item>
+        <item>Lotec</item>
+        <item>Magirus</item>
+        <item>Maybach</item>
+        <item>Mercedes-AMG</item>
+        <item>Mercedes-Benz</item>
+        <item>Opel</item>
+        <item>Porsche</item>
+        <item>Smart</item>
+        <item>Volkswagen</item>
+        <item>Wiesman</item>
+
+    </array>
+</resources>
